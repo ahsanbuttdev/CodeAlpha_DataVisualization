@@ -23,7 +23,7 @@ This Power BI project transforms raw video game data into actionable business in
 ├── readme              # Documentation / README file
 ├── Visualization.pbix  # Power BI file
 ├── cleaned_data        # video game dataset
-├── ratings.jpg         # Screenshot: Page 3 - Ratings & Performance Analysis View      
+├── rating.jpg         # Screenshot: Page 3 - Ratings & Performance Analysis View      
 ├── sales.jpg           # Screenshot: Page 2 - Global Sales & Market Analysis View
         
 ```
@@ -59,7 +59,7 @@ Provides high-level KPI breakdowns, regional market revenue, and historical grow
 
 Examines critical reception versus public user satisfaction across various platforms and genres.
 
-![Ratings and Performance Analysis](ratings.jpg)
+![Ratings and Performance Analysis](rating.jpg)
 
 #### 💡 Key Data Storytelling Points:
 * **Critic vs. User Disconnect**: Across **214K Critic Reviews** and **1M User Reviews**, critics maintain a mean score of **68.97 / 100**, while users rate games at an average of **7.13 / 10**.
@@ -86,6 +86,3 @@ Examines critical reception versus public user satisfaction across various platf
 * **Navigation**: Jump between Page 1, Page 2, and Page 3 using the sidebar buttons.
 * **Top 10 Table**: Explore top revenue-generating games on the Sales page.
 
----
-2. Explore cleaned data in the `cleaned_data/` folder.
-3. Open the `.pbix` project file in **Power BI Desktop** to view dynamic measures and interactive visuals.
